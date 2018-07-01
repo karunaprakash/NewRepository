@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
+// Comments addedas part of Branch_Dev2
 class Shape
 {
 	public:
