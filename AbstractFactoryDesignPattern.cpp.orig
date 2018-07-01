@@ -1,8 +1,11 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
+<<<<<<< HEAD
+=======
 // Comments addedas part of Branch_Dev2
-//Added Comments to test Git Commands
+//Jira 101
+>>>>>>> 06cd1c749f2c45e202868204fc35cbfdee4f68f8
 class Shape
 {
 	public:
@@ -87,3 +90,4 @@ int main() {
 	
 	return 0;
 }
+// Jira100

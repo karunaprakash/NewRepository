@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
+//Jira 101
 class Shape
 {
 	public:
