@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
+
+
+// Team Member Changes
+// Team Member Changes again
 class Shape
 {
 	public:
