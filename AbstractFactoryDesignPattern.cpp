@@ -2,7 +2,7 @@
 using namespace std;
 #define SIMPLE true
 // Comments addedas part of Branch_Dev2
-//Jira 102
+//Jira 101
 class Shape
 {
 	public:
