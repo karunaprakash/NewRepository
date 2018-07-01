@@ -2,6 +2,8 @@
 using namespace std;
 #define SIMPLE true
 
+
+// Team Member Changes
 class Shape
 {
 	public:
