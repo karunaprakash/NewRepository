@@ -1,8 +1,13 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
-// Comments addedas part of Branch_Dev2
-//Added Comments to test Git Commands
+<<<<<<< HEAD
+=======
+
+
+// Team Member Changes
+// Team Member Changes again
+>>>>>>> 6e2e4e2fc08e3c193428936ee91da9f88a4d960e
 class Shape
 {
 	public:
