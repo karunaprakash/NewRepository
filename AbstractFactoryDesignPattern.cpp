@@ -2,6 +2,7 @@
 using namespace std;
 #define SIMPLE true
 // Comments addedas part of Branch_Dev2
+//Added Comments to test Git Commands
 class Shape
 {
 	public:
