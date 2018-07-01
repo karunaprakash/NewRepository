@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
+//Added Comments to test Git Commands
 class Shape
 {
 	public:
