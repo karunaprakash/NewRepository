@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 #define SIMPLE true
+
 class Shape
 {
 	public:
